@@ -1,5 +1,6 @@
 import React from 'react';
 import { links } from './Data';
+import './navbar.css'
 
 const Navbar = () => {
   return (

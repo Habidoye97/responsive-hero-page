@@ -5,9 +5,17 @@
 }
 
 .header-left {
-  flex: 2;
+  flex: 1.5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
   background-image: linear-gradient(135.49deg, var(--bg-color-light) 48.1%, var(--bg-color-dark) 100.21%);
   min-height: 100%;
+  padding: 2rem;
+  margin: 0 auto;
+  color: white;
+  position: relative;
 }
 
 .header-right {
@@ -30,4 +38,101 @@
   height: 100%;
   background-color: var(--bg-color-light);
   opacity: 0.3;
+}
+
+.logo_container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  width: 70%;
+}
+
+.logo_container div {
+  background-color: black;
+  height: 100%;
+}
+
+.logo_description {
+  font-size: var(--normal-font);
+  line-height: 43px;
+}
+
+.interior-page-head {
+  width: 70%;
+}
+
+.interior-page-head h3 {
+  font-weight: 600;
+  font-size: var(--little-big-font);
+}
+
+.interior-page-head button {
+  outline: none;
+  background-color: var(--button-bg);
+  padding: .8rem;
+  font-size: var(--small-font);
+  color: white;
+  border-radius: .5rem;
+  margin-top: .5rem;
+  cursor: pointer;
+}
+
+.first-image {
+  border-radius: 50%;
+  width: 5rem;
+  height: 5rem;
+}
+
+.first-image img {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 2rem;
+  bottom: 20%;
+}
+
+.frame {
+  display: flex;
+  align-items: center;
+  border-radius: .5rem;
+  height: fit-content;
+}
+
+.frame h2 {
+  font-size: var(--normal-font);
+  background-color: white;
+  color: black;
+  height: 100%;
+  padding: .5rem;
+  border-radius: .5rem 0 0 .5rem;
+  border-bottom: .15rem solid white;
+  border-top: .15rem solid white;
+}
+
+.frame p {
+  background-color: transparent;
+  height: 100%;
+  padding: .5rem;
+  background-color: transparent;
+  border-bottom: .15rem solid white;
+  border-top: .15rem solid white;
+  border-right: .15rem solid white;
+  border-radius: 0 .5rem .5rem 0;
+}
+
+.frame-container {
+  position: absolute;
+  z-index: 5;
+}
+
+.first {
+  bottom: 25%;
+  right: -7rem;
+  
+}
+
+.second {
+  bottom: 13%;
+  right: -1rem;
+
 }
