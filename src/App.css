@@ -122,7 +122,7 @@
 
 .frame-container {
   position: absolute;
-  z-index: 5;
+  z-index: 1;
 }
 
 .first {
@@ -135,4 +135,43 @@
   bottom: 13%;
   right: -1rem;
 
+}
+
+@media screen and (max-width: 1024px) {
+
+  .header-right {
+    display: none;
+  }
+
+  .header-left {
+    background-image: url(./images/frame.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .first {
+    bottom: 25%;
+    right: 2rem;
+    
+  }
+  
+  .second {
+    bottom: 13%;
+    right: 3rem;
+  
+  }
+   .interior-page-head {
+    width: 90%;
+    padding-top: 5rem;
+
+   }
+
+  .two {
+    display: none;
+  }
+
+  /* .logo_container {
+    display: none;
+  } */
 }

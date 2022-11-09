@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="header">
       <div className='header-left'>
-        <div className="logo_container">
+        <div className="logo_container two">
           <div className="logo"></div>
           <h1 className="logo_description">Interior Thinkers</h1>
         </div>
