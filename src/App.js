@@ -22,7 +22,7 @@ function App() {
 
         <div className="frame-container first">
           <div className='frame'>
-            <h2>10+</h2>
+            <h2>100</h2>
             <p>Years of experience</p>
           </div>
         </div>

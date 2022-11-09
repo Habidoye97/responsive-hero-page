@@ -64,6 +64,11 @@
 .interior-page-head h3 {
   font-weight: 600;
   font-size: var(--little-big-font);
+  line-height: 1.5em;
+}
+
+.interior-page-head p {
+  line-height: 1.5em;
 }
 
 .interior-page-head button {
