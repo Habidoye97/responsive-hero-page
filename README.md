@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+<p align="center">Hero Page of Interior Thinkers</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://github.com/habidoyetech">
+    <img alt="Made by Abidoye Abiodun" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/habidoyetech" />
+  </a>
+ 
+  
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5965e0&color=5965e0">
+  <br />
+ 
+</p>
+<p align="center">
+    <img alt="Hero Page" src="#" />
+</p>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Getting Started
 
-### `npm start`
+### Prerequisites
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- To run any ReactJS application you need to configure the environment on your machine.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Setting the environment is a simple process, so it's recommended to follow the Rocketseat guide which is currently the most complete and detailed to make the settings:
 
-### `npm test`
+#### [**Rocketseat Guide**](https://www.notion.so/Configura-es-do-ambiente-React-76f2963a042f45b9b9b567a2795945b8)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Clone
 
-### `npm run build`
+- Clone this repo to your local machine using:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+https://github.com/habidoyetech/responsive-hero-page
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Setup
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Install project dependencies;
+  - ```javascript
+    yarn install
+    // or
+    npm install
+    ```
+- Run project in development mode;
 
-### `npm run eject`
+  - ```javascript
+    yarn dev
+    // or
+    npm run dev
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Be Happy! 😆
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📋 Features
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Build with
 
-## Learn More
+- [ReactJS](https://reactjs.org/) - A JavaScript library for building user interfaces
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🤔 Contributing
 
-### Code Splitting
+> To get started...
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Step 1
 
-### Analyzing the Bundle Size
+- 🍴 Fork this repo!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Step 2
 
-### Making a Progressive Web App
+- 👯 Clone this repo to your local machine using `https://github.com/habidoyetech/responsive-hero-page`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Step 3
 
-### Advanced Configuration
+- 🎋 Create your feature branch using `git checkout -b my-feature`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Step 4
 
-### Deployment
+- ✅ Commit your changes using `git commit -m 'feat: My new feature'`;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Step 5
 
-### `npm run build` fails to minify
+- 📌 Push to the branch using `git push origin my-feature`;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Step 6
+
+- 🔃 Create a new pull request
+
+After your Pull Request is merged, can you delete your feature branch.
+
+---
+
+## 📌 Support
+
+
+
+## 📝 License
+
+<img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=rgb(89,101,224)">
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made by Abiodun Abidoye with 💙 Enjoy it!# InteriorThinkersHeroPage
